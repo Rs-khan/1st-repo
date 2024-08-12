@@ -1,0 +1,42 @@
+.open-sans-normal{
+    font-family:"Open Sans",sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"with"100px;
+}
+.nav-tittle{
+
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 100px 0px 100px;
+}
+.btn{
+    font-size: fixed;
+    color:black;
+    padding: 10px 24px;
+    border-radius: 5px;
+    background-color: white;
+}
+.btn-1{
+    font-size: fixed;
+    color:white;
+    padding: 10px 24px;
+    border-radius: 5px;
+    background-color: black;
+}
+.bng{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+/*.baground-image{
+    image
+}*/
+
+.bannar-bg{
+    background-image: url(../1st\ repo/Hero.bg)
+}
